@@ -1,2 +1,1 @@
-# QureO-Helper-v2
-A Python and Java coding assistant with a built-in pattern-based solver for beginner programming exercises.
+# QureO Helper v2\n\nStandalone helper for manually entered beginner coding questions. Includes a small pattern-based solver for FizzBuzz, even/odd, factorial, sum 1..n, and maximum of two numbers in Python and Java. Does not connect to QureO or submit answers.\n
